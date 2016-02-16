@@ -1,1 +1,0 @@
-Simple wrapper using ctypes in Python for the [Haraka](https://github.com/kste/haraka) hash function.
