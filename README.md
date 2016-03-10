@@ -1,4 +1,4 @@
-Simple wrapper using ctypes in Python for the [Haraka](https://github.com/kste/haraka) hash function.
+Simple wrapper using ctypes in Python for the [Haraka](https://github.com/kste/haraka) compression function.
 
 Testing is as simple as:
 
